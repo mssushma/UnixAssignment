@@ -1,3 +1,4 @@
-guessinggame
-Fri Feb 18 16:15:10 IST 2022
-21
+Guessing Game Bash Script for Unix Workbench
+This Make file was ran at: 2022-02-18  16:37
+
+There were 23 lines in guessinggame.sh
